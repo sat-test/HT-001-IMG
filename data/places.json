@@ -8,7 +8,9 @@
     "open_time": "06:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
-    "rating": "4.7"
+    "rating": "4.7",
+    "lat": 25.3808,
+    "lng": 83.0245
   },
   "chaukhandi_stupa": {
     "id": "002",
@@ -19,7 +21,9 @@
     "open_time": "06:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
-    "rating": "4.4"
+    "rating": "4.4",
+    "lat": 25.3741,
+    "lng": 83.0237
   },
   "the_giant_buddha": {
     "id": "003",
@@ -30,7 +34,9 @@
     "open_time": "08:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "Free",
-    "rating": "4.8"
+    "rating": "4.8",
+    "lat": 25.3768,
+    "lng": 83.0211
   },
   "chinese_buddhist_temple,": {
     "id": "004",
@@ -41,7 +47,9 @@
     "open_time": "07:00 AM",
     "close_time": "05:00 PM",
     "entry_fee": "Free",
-    "rating": "4.5"
+    "rating": "4.5",
+    "lat": 25.3776,
+    "lng": 83.0219
   },
   "tibetan_temple_varanasi": {
     "id": "005",
@@ -52,7 +60,9 @@
     "open_time": "06:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "Free",
-    "rating": "4.6"
+    "rating": "4.6",
+    "lat": 25.3762,
+    "lng": 83.0204
   },
   "japanese_temple": {
     "id": "006",
@@ -63,7 +73,9 @@
     "open_time": "07:00 AM",
     "close_time": "05:00 PM",
     "entry_fee": "Free",
-    "rating": "4.6"
+    "rating": "4.6",
+    "lat": 25.3794,
+    "lng": 83.0189
   },
   "sarnath_buddhist_temple,": {
     "id": "007",
@@ -74,7 +86,9 @@
     "open_time": "04:30 AM",
     "close_time": "05:30 PM",
     "entry_fee": "Free",
-    "rating": "4.7"
+    "rating": "4.7",
+    "lat": 25.3802,
+    "lng": 83.0264
   },
   "cambodian_temple_sarnath": {
     "id": "008",
@@ -85,7 +99,9 @@
     "open_time": "08:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "Free",
-    "rating": "4.5"
+    "rating": "4.5",
+    "lat": 25.3752,
+    "lng": 83.0234
   },
   "thai_temple": {
     "id": "009",
@@ -96,7 +112,9 @@
     "open_time": "08:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "Free",
-    "rating": "4.8"
+    "rating": "4.8",
+    "lat": 25.3768,
+    "lng": 83.0211
   },
   "vishwa_shanti_stupa": {
     "id": "010",
@@ -107,7 +125,9 @@
     "open_time": "06:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "Free",
-    "rating": "4.6"
+    "rating": "4.6",
+    "lat": 25.3766,
+    "lng": 83.0241
   },
   "sarnath_museum": {
     "id": "011",
@@ -118,7 +138,9 @@
     "open_time": "09:00 AM",
     "close_time": "05:00 PM",
     "entry_fee": "₹5 per person (Closed on Fridays)",
-    "rating": "4.7"
+    "rating": "4.7",
+    "lat": 25.3797,
+    "lng": 83.0225
   },
   "dharma_chakra": {
     "id": "012",
@@ -129,7 +151,9 @@
     "open_time": "06:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "Free",
-    "rating": "4.5"
+    "rating": "4.5",
+    "lat": 25.3800,
+    "lng": 83.0232
   },
   "sarnath_deer_park": {
     "id": "013",
@@ -140,7 +164,9 @@
     "open_time": "06:00 AM",
     "close_time": "06:00 PM",
     "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
-    "rating": "4.5"
+    "rating": "4.5",
+    "lat": 25.3805,
+    "lng": 83.0228
   },
   "sivali_vietnames": {
     "id": "014",
@@ -151,6 +177,8 @@
     "open_time": "08:00 AM",
     "close_time": "05:00 PM",
     "entry_fee": "Free",
-    "rating": "4.5"
+    "rating": "4.5",
+    "lat": 25.3745,
+    "lng": 83.0216
   }
 }
