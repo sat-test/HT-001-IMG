@@ -1,0 +1,145 @@
+{
+  "dhamek stupa": {
+    "id": "001",
+    "title": "Dhamek Stupa",
+    "description": "A massive 43.6-meter tall stone and brick structure built by Emperor Ashoka. It marks the exact spot where Lord Buddha delivered his first sermon to his five disciples.",
+    "map_url": "https://maps.app.goo.gl/v1PaiLDQoumhoX6R9",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-001.jpeg",
+    "open_time": "06:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
+    "rating": "4.7"
+  },
+  "chaukhandi_stupa": {
+    "id": "002",
+    "title": "Chaukhandi Stupa",
+    "description": "An ancient Buddhist stupa marking the spot where Lord Buddha reunited with his first disciples. It is uniquely topped by an octagonal Mughal tower built later by Humayun.",
+    "map_url": "https://maps.app.goo.gl/HhctatgNuWhbi1zc6",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-002.jpeg",
+    "open_time": "06:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
+    "rating": "4.4"
+  },
+  "the_giant_buddha": {
+    "id": "003",
+    "title": "The Giant Buddha",
+    "description": "An impressive and serene 80-foot tall standing statue of Lord Buddha. It is a major spiritual landmark located within the beautiful premises of the Thai Temple complex.",
+    "map_url": "https://maps.app.goo.gl/o5qmL5bakR2akcF17",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-003.jpeg",
+    "open_time": "08:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.8"
+  },
+  "chinese_buddhist_temple,": {
+    "id": "004",
+    "title": "Chinese Buddhist Temple",
+    "description": "A peaceful monastery showcasing traditional Chinese architecture, red lanterns, and authentic artwork. It offers a calm, quiet sanctuary for meditation.",
+    "map_url": "https://maps.app.goo.gl/i9hQktwaFbjmsLDq9",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-004.jpeg",
+    "open_time": "07:00 AM",
+    "close_time": "05:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.5"
+  },
+  "tibetan_temple_varanasi": {
+    "id": "005",
+    "title": "Tibetan Temple Varanasi",
+    "description": "A beautifully decorated shrine built in the traditional Tibetan architectural style. It features a stunning statue of Shakyamuni Buddha and large, vibrant prayer wheels.",
+    "map_url": "https://maps.app.goo.gl/3MozUxWBCrJkLTkt6",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-008.jpeg",
+    "open_time": "06:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.6"
+  },
+  "japanese_temple": {
+    "id": "006",
+    "title": "Japanese Temple",
+    "description": "Known as Nichigai Suzan Horinji, this temple features a minimalist Zen wooden design. It houses a large reclining Buddha statue and features a serene garden atmosphere.",
+    "map_url": "https://maps.app.goo.gl/Wea8SxZy4XS546aH7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-011.jpeg",
+    "open_time": "07:00 AM",
+    "close_time": "05:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.6"
+  },
+  "sarnath_buddhist_temple,": {
+    "id": "007",
+    "title": "Sarnath Buddhist Temple (Mulagandha Kuti Vihar)",
+    "description": "A prominent modern temple adorned with exquisite interior frescoes painted by a Japanese artist. It houses a sacred gold-plated statue of Lord Buddha.",
+    "map_url": "https://maps.app.goo.gl/nrZeikbadPFV3tDa6",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-006.jpeg",
+    "open_time": "04:30 AM",
+    "close_time": "05:30 PM",
+    "entry_fee": "Free",
+    "rating": "4.7"
+  },
+  "cambodian_temple_sarnath": {
+    "id": "008",
+    "title": "Cambodian Temple Sarnath",
+    "description": "A unique religious site featuring striking Cambodian Khmer-style architecture. The outer walls display detailed reliefs illustrating scenes from the life of Buddha.",
+    "map_url": "https://maps.app.goo.gl/7QcJnvWTo7Zqb7sA7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-012.jpeg",
+    "open_time": "08:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.5"
+  },
+  "thai_temple": {
+    "id": "009",
+    "title": "Thai Temple",
+    "description": "An authentic Thai monastery surrounded by manicured gardens. It is highly popular for hosting the majestic 80-foot standing Giant Buddha statue.",
+    "map_url": "https://maps.app.goo.gl/xNHsgNdPGx22BNrR7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-010.jpeg",
+    "open_time": "08:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.8"
+  },
+  "vishwa_shanti_stupa": {
+    "id": "010",
+    "title": "Vishwa Shanti Stupa",
+    "description": "A majestic white peace pagoda constructed to symbolize global harmony and non-violence. It sits within a beautifully landscaped spiritual garden perfect for meditation.",
+    "map_url": "https://maps.app.goo.gl/8iVSym4NtMKKSZPT7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-009.jpeg",
+    "open_time": "06:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.6"
+  },
+  "sarnath_museum": {
+    "id": "011",
+    "title": "Sarnath Museum",
+    "description": "The oldest site museum of the Archaeological Survey of India. It proudly houses the legendary Lion Capital of Ashoka, which serves as India's national emblem.",
+    "map_url": "https://maps.app.goo.gl/6VQTUyowBKvCSNWi9",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-007.jpeg",
+    "open_time": "09:00 AM",
+    "close_time": "05:00 PM",
+    "entry_fee": "₹5 per person (Closed on Fridays)",
+    "rating": "4.7"
+  },
+  "dharma_chakra": {
+    "id": "012",
+    "title": "Dharma Chakra",
+    "description": "A symbolic monument representing the Wheel of Dharma. It honors the core site where Buddha set the cosmic wheel of law into motion during his initial teachings.",
+    "map_url": "https://maps.app.goo.gl/XM2k2aSfm2U91kcR8",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-005.jpeg",
+    "open_time": "06:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.5"
+  },
+  "sarnath_deer_park": {
+    "id": "013",
+    "title": "Sarnath Deer Park",
+    "description": "The historical park landscape where Lord Buddha delivered his first discourse. Today, it operates as a green, peaceful enclosure where visitors can spot free-roaming deer.",
+    "map_url": "https://maps.app.goo.gl/9aUqzEHz2H23MSNK9",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-013.jpeg",
+    "open_time": "06:00 AM",
+    "close_time": "06:00 PM",
+    "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
+    "rating": "4.5"
+  }
+}
