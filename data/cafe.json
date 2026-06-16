@@ -1,0 +1,54 @@
+{
+  "cilantro_restaurant": {
+    "id": "001",
+    "title": "Cilantro Restaurant",
+    "description": "A popular dining spot near Ashapur Chauraha offering a diverse multi-cuisine menu with a comfortable, family-friendly seating environment.",
+    "map_url": "https://maps.app.goo.gl/yYrFoSCxBSQbDS9P9",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-016.jpeg",
+    "open_time": "07:00 AM",
+    "close_time": "10:30 PM",
+    "entry_fee": "Free (Only food charges)",
+    "rating": "4.3",
+    "lat": 25.3639,
+    "lng": 83.0256
+  },
+  "restaurant_up_65": {
+    "id": "002",
+    "title": "Restaurant UP-65",
+    "description": "A well-known local eatery on Rishpattan Road famous for serving flavorful North Indian dishes and casual bites in a lively neighborhood atmosphere.",
+    "map_url": "https://maps.app.goo.gl/wHVnooYT6gZvwfcu7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-017.jpeg",
+    "open_time": "11:00 AM",
+    "close_time": "11:00 PM",
+    "entry_fee": "Free (Only food charges)",
+    "rating": "4.3",
+    "lat": 25.3667,
+    "lng": 83.0251
+  },
+  "red_palace_restaurant": {
+    "id": "003",
+    "title": "Red Palace | family restaurant in varanasi",
+    "description": "A spacious and elegantly designed family restaurant located at Haveliya Chauraha, perfect for large gatherings and enjoying authentic Indian cuisine.",
+    "map_url": "https://maps.app.goo.gl/5aATNjXnTqceeNgb6",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-018.jpeg",
+    "open_time": "11:00 AM",
+    "close_time": "11:30 PM",
+    "entry_fee": "Free (Only food charges)",
+    "rating": "4.4",
+    "lat": 25.3701,
+    "lng": 83.0252
+  },
+  "the_friends_table": {
+    "id": "018",
+    "title": "The Friends Table",
+    "description": "A cozy and modern cafe-style restaurant situated near the Sarnath Post Office, highly rated for its welcoming vibe, great hospitality, and delicious continental snacks.",
+    "map_url": "https://maps.app.goo.gl/FtcXZtzSyEpV9Qfo7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-019.jpeg",
+    "open_time": "11:00 AM",
+    "close_time": "11:00 PM",
+    "entry_fee": "Free (Only food charges)",
+    "rating": "4.9",
+    "lat": 25.3782,
+    "lng": 83.0272
+  }
+}
