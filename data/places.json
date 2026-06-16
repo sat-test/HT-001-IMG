@@ -141,5 +141,16 @@
     "close_time": "06:00 PM",
     "entry_fee": "₹25 for Indians, ₹300 for Foreigners",
     "rating": "4.5"
+  },
+  "sivali_vietnames": {
+    "id": "014",
+    "title": "Chùa Đại Lộc - Sivali Vietnames",
+    "description": "A tranquil Vietnamese Buddhist temple in Sarnath that showcases traditional Vietnamese architectural design. It serves as a peaceful haven for monks, pilgrims, and meditation practitioners.",
+    "map_url": "https://maps.app.goo.gl/ywhpvdgLF8nxnaWT7",
+    "image_url": "https://raw.githubusercontent.com/sat-test/HT-001-IMG/refs/heads/main/HT-001-015.jpeg",
+    "open_time": "08:00 AM",
+    "close_time": "05:00 PM",
+    "entry_fee": "Free",
+    "rating": "4.5"
   }
 }
